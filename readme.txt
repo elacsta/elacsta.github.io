@@ -23,4 +23,4 @@ museosans rounded 300
 
 
 
-contributer [Rahul R](https://github.com/Rahul24-R)
+contrbuter: Rahul R
